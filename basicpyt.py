@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Python Functions Tutorial: From Basic to Advanced
 ==================================================
@@ -657,3 +658,6 @@ if __name__ == "__main__":
     print()
     
     print("=== Tutorial Complete ===")
+=======
+print("hello")
+>>>>>>> origin/main
